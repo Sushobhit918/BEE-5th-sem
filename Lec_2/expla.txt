@@ -1,0 +1,9 @@
+module is resuable piece of code
+encapsulated from other module
+es module mein expoet aur import hota hai
+commonJs module system -- require()
+require function empty object return karta hai
+
+madge library is used to find circular dependency.
+"npm install -g  madge"
+export can be of two type: 1) name and 2) default
