@@ -14,3 +14,4 @@ fs.writeFile("../user.txt",JSON.stringify(users),function(err){
     if(err)return console.log(err);
     console.log("user written !!");
 })
+console.log("hello")
