@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1",
+    "name": "Sushobhit",
+    "username": "t123",
+    "role": "admin"
+  },
+  {
+    "id": "2",
+    "name": "soni",
+    "username": "s45",
+    "role": "editor"
+  },
+  {
+    "id": "3",
+    "name": "Tejasv",
+    "username": "Tejaa",
+    "role": "user"
+  },
+  {
+    "id": "3",
+    "name": "sushobhit jain",
+    "username": "jain",
+    "role": "head"
+  },
+  {
+    "id": "4",
+    "name": "sushobhit",
+    "username": "jain",
+    "role": "head"
+  }
+]
